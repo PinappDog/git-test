@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("second commit");
         System.out.println("first hot commit");
-        System.out.println("master mergetest");
+        System.out.println("newmaster mergetest");
     }
 }
