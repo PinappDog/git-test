@@ -7,5 +7,6 @@ public class Main {
         System.out.println("first hot commit");
         System.out.println("newmaster mergetest");
         System.out.println("newhot mergetest");
+        System.out.println("GitHub start");
     }
 }
