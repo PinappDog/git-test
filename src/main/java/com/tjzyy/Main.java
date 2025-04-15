@@ -8,5 +8,6 @@ public class Main {
         System.out.println("newmaster mergetest");
         System.out.println("newhot mergetest");
         System.out.println("GitHub start");
+        System.out.println("GitHub pull");
     }
 }
