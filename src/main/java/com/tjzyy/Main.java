@@ -6,5 +6,6 @@ public class Main {
         System.out.println("second commit");
         System.out.println("first hot commit");
         System.out.println("newmaster mergetest");
+        System.out.println("newhot mergetest");
     }
 }
